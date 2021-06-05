@@ -1,0 +1,17 @@
+#main{
+        background-color: aquamarine;
+        text-align: center;
+    }
+ #btn {
+        background-color: white;
+        color: black;
+        border:none;
+        border-radius: 23px;
+        margin-top:-20px;
+      }
+      
+#btn:hover {
+        background-color: #555555;
+        color: white;
+        font-weight: bold;
+      }
